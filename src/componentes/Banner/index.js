@@ -8,8 +8,9 @@ export default function Banner() {
       <div className={styles.apresentacao}>
         <h1 className={styles.titulo}>Olá mundo!</h1>
         <p className={styles.paragrafo}>
-          Boas vindas ao meu espaço pessoal!! Sou Daniel Pinheiro e estou em
-          transição de carreira para Programador Full Stack ou áreas afins.
+          Boas vindas ao meu espaço pessoal!! Sou Daniel Pinheiro, estudante dev
+          e estou em transição de carreira para Programador Full Stack ou áreas
+          afins.
         </p>
       </div>
       <div className={styles.imagens}>
