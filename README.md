@@ -11,7 +11,7 @@
 [x] Create MenuLink component with _useLocation()_ <br>
 [x] Create Main Page component using one native method of React-Router-Dom called Outlet<br>
 [x] Create PostCard componentusing one native method of React-Router-Dom called Link<br>
-[x] Create PostModelo component with Props <br>
+[x] Create PostModel component with Props <br>
 [x] Create Rodape component <br>  
 [x] Create component <br>
 
@@ -20,6 +20,7 @@
 [x] Create Start page <br>
 [x] Create Aboute me page <br>
 [x] Create Post page with useParams Hook<br>
+[x] Create Not Found Pages
 
 ### Routes:
 
